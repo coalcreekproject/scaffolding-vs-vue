@@ -1,0 +1,3 @@
+C:\Source\006\VueCliScaffold\VueScaffoldVs\obj\Debug\VueScaffoldVs.njsprojAssemblyReference.cache
+C:\Source\006\VueCliScaffold\VueScaffoldVs\obj\Debug\VueScaffoldVs.njsproj.CoreCompileInputs.cache
+C:\Source\006\VueCliScaffold\VueScaffoldVs\bin\Microsoft.NodejsTools.WebRole.dll
